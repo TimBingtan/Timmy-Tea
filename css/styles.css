@@ -1,3 +1,8 @@
 body {
     background-color: black;
 }
+
+.d-block { 
+    height: 50rem;
+    margin: 0 auto;
+}
